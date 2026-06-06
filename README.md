@@ -87,7 +87,7 @@ npm run eval
 
 ## Live URL
 
-`https://tara-agent-290n.onrender.com/`
+`https://tara-agent-290n.onrender.com/health`
 
 > Deployed but returning errors due to missing API key.
 > Set `ANTHROPIC_API_KEY` in Railway environment variables
